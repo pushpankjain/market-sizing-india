@@ -1,5 +1,3 @@
-market-sizing-india
-
 # Market Sizing - India Consumer Sectors
 
 Structured market sizing frameworks developed during live buy-side and sell-side mandates at PwC, Mumbai. Each analysis below was used to inform investment thesis development, TAM expansion narratives, or IC-level presentations.
